@@ -12,3 +12,7 @@ header{
     width: 30%;
     height: 30%;
 }
+
+ul {
+    list-style-type: none;
+  }
