@@ -16,3 +16,7 @@ header{
 ul {
     list-style-type: none;
   }
+.container{
+    display: flex;
+   justify-content: flex-start;
+}
