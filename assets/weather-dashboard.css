@@ -11,12 +11,21 @@ header{
 .card{
     width: 30%;
     height: 30%;
+    justify-content: center;
 }
-
 ul {
     list-style-type: none;
   }
 .container{
     display: flex;
    justify-content: flex-start;
+
+}
+
+#results-container{
+    background-color: whitesmoke;
+}
+
+#five-day{
+justify-content: center;
 }
